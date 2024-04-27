@@ -183,7 +183,7 @@ tripdata %>%
 
 #### **Filter trip duration**
 
-- Exclude entries were there is either a negative time recorded, the trip duration is < 1 mins or > 1440 mins.
+- Exclude entries where there is either a negative time recorded, the trip duration is < 1 mins or > 1440 mins.
 
 ![](Visualizations/Plot for Short, Medium, Long & Very Long.png)
 
