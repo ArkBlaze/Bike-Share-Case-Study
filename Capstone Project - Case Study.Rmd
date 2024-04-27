@@ -1,5 +1,5 @@
 ---
-title: "Capestone Project - Case Study(2)"
+title: "Capestone Project - Case Study"
 author: "Pooveannan"
 date: "2024-04-09"
 output:
