@@ -2,8 +2,10 @@
 
 This repository contains the code and documentation for a data analysis project conducted on Cyclistic's bike share data. The project is organized into several phases,      including data cleaning, data analysis, data visualization, and recommendations. This README provides an overview of each phase and key findings.
 
+
 Table of Contents
 
+    
     Project Overview
     Phase 1: Data Cleaning and Preparation
     Phase 2: Data Analysis
@@ -11,9 +13,12 @@ Table of Contents
     Phase 4: Recommendations
     Conclusion
 
+
 Project Overview
 
 Cyclistic, a bike-sharing company, has provided data on bike rides taken by its customers. The goal of this project is to analyze the data, gain insights into customer behavior, and provide actionable recommendations to improve Cyclistic's bike-sharing service.
+
+
 Phase 1: Data Cleaning and Preparation
 
 In this phase, the data was cleaned and prepared for analysis. Key steps included:
@@ -21,6 +26,7 @@ In this phase, the data was cleaned and prepared for analysis. Key steps include
     Calculating ride durations based on start and end times.
     Filtering out excessively long or short rides.
     Ensuring data accuracy and reliability.
+
 
 Phase 2: Data Analysis
 
@@ -32,6 +38,7 @@ During this phase, the data was analyzed to gain a better understanding of custo
     Ride length patterns by day of the week and month.
     Differences in ride behavior between customer types.
 
+
 Phase 3: Data Visualization
 
 Visualizations were created to present key insights:
@@ -41,6 +48,7 @@ Visualizations were created to present key insights:
     Monthly trends in bike usage.
     Average ride lengths by week days and months.
     Bike type preferences among customers.
+
 
 Phase 4: Recommendations
 
@@ -52,6 +60,7 @@ Based on the analysis, the following recommendations are made:
     Focus on improving classic bike fleet.
     Consider offering longer rental periods for casual riders.
     Increase marketing efforts during winter months.
+
 
 Conclusion
 
